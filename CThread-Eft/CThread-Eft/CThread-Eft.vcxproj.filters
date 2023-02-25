@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Util">
+      <UniqueIdentifier>{cf2d81f7-627e-4a77-b68c-bc84bd834472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\driver">
+      <UniqueIdentifier>{2bb2b896-c87d-4f98-a180-e1cae966b22e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\overlay">
+      <UniqueIdentifier>{376af3cf-a370-41d2-8c72-a30cdcd8f937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\overlay\menu">
+      <UniqueIdentifier>{2c41269b-e5bb-41ad-947d-4bafc5ce22ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sdk">
+      <UniqueIdentifier>{fca0f357-2f8c-4783-b77a-c4f86dfd1bf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sdk\Features">
+      <UniqueIdentifier>{7233cc19-f9b8-4066-8a67-2ce19281db35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Director.hpp">
+      <Filter>Source Files\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="driver.hpp">
+      <Filter>Source Files\driver</Filter>
+    </ClInclude>
+    <ClInclude Include="xor.hpp">
+      <Filter>Source Files\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="glob.hpp">
+      <Filter>Source Files\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Bone.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.hpp">
+      <Filter>Source Files\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Extraction.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="GOM.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="loot.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="mono.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="movement.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="Physical.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="profile.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="world.hpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
