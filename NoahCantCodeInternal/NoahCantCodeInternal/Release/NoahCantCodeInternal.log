@@ -1,0 +1,28 @@
+﻿  Baseplayer.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\Baseplayer.cpp(1,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  dllmain.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\dllmain.cpp(1,10): fatal  error C1083: Cannot open precompiled header file: 'Release\NoahCantCodeInternal.pch': No such file or directory
+  Features.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\Features.cpp(1,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui.cpp(2022,1): warning C4005: 'va_copy': macro redefinition
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui.cpp(2020,1): message : see previous definition of 'va_copy'
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui.cpp(10107,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_demo.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_demo.cpp(104,1): warning C4005: 'IM_NEWLINE': macro redefinition
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_demo.cpp(102,1): message : see previous definition of 'IM_NEWLINE'
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_demo.cpp(4845,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_draw.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_draw.cpp(126,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_draw.cpp(149,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_draw.cpp(3406,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_impl_dx11.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_impl_dx11.cpp(545,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_impl_win32.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_impl_win32.cpp(326,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_tables.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_tables.cpp(1,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_widgets.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\imgui\imgui_widgets.cpp(7631,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  memory.cpp
+C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\NoahCantCodeInternal\memory.cpp(82,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
