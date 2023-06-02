@@ -1,8 +1,0 @@
-﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
-  dllmain.cpp
-  Generating code
-  2 of 1285 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    9 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  NoahCantCodeInternal.vcxproj -> C:\Users\Shadow\Desktop\NoThisPointers-main\NoahCantCodeInternal\x64\Release\NoahCantCodeInternal.dll
